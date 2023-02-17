@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/tetrads/static/css/main.1d14d2e9.css",
-    "main.js": "/tetrads/static/js/main.bd44a2d1.js",
+    "main.js": "/tetrads/static/js/main.9473e05e.js",
     "static/media/math.jpg": "/tetrads/static/media/math.256993585d9aaa165322.jpg",
     "index.html": "/tetrads/index.html"
   },
   "entrypoints": [
     "static/css/main.1d14d2e9.css",
-    "static/js/main.bd44a2d1.js"
+    "static/js/main.9473e05e.js"
   ]
 }
